@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="500f2349-745b-4567-81aa-1aafded405ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2PKZgHetl5i2z2NtnPdo5SM1fkK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Mark/OneDrive/Desktop/myFiles/User PC/IdeaProjects/bvasBeta",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="africa.semicolon.bvasBeta.models" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="africa.semicolon.bvasBeta.services" />
+      <recent name="africa.semicolon.bvasBeta.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.BvasVoterRepositoryTest">
+    <configuration name="BvasVoterRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bvasBeta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.bvasBeta.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.bvasBeta.repositories" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.bvasBeta.repositories.BvasVoterRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BvasVoterRepositoryTest.buildTestVoter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bvasBeta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.bvasBeta.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.bvasBeta.repositories" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.bvasBeta.repositories.BvasVoterRepositoryTest" />
+      <option name="METHOD_NAME" value="buildTestVoter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BvasVoterRepositoryTest.testDeleteById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bvasBeta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.bvasBeta.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.bvasBeta.repositories" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.bvasBeta.repositories.BvasVoterRepositoryTest" />
+      <option name="METHOD_NAME" value="testDeleteById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BvasVoterRepositoryTest.testFindAllVoters" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bvasBeta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.bvasBeta.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.bvasBeta.repositories" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.bvasBeta.repositories.BvasVoterRepositoryTest" />
+      <option name="METHOD_NAME" value="testFindAllVoters" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BvasVoterRepositoryTest.testSaveVoter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bvasBeta" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="africa.semicolon.bvasBeta.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="africa.semicolon.bvasBeta.repositories" />
+      <option name="MAIN_CLASS_NAME" value="africa.semicolon.bvasBeta.repositories.BvasVoterRepositoryTest" />
+      <option name="METHOD_NAME" value="testSaveVoter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.BvasVoterRepositoryTest" />
+        <item itemvalue="JUnit.BvasVoterRepositoryTest.testDeleteById" />
+        <item itemvalue="JUnit.BvasVoterRepositoryTest.testFindAllVoters" />
+        <item itemvalue="JUnit.BvasVoterRepositoryTest.buildTestVoter" />
+        <item itemvalue="JUnit.BvasVoterRepositoryTest.testSaveVoter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="500f2349-745b-4567-81aa-1aafded405ce" name="Changes" comment="" />
+      <created>1683207850327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683207850327</updated>
+      <workItem from="1683207862030" duration="7695000" />
+      <workItem from="1683617956493" duration="26686000" />
+      <workItem from="1683753112168" duration="20429000" />
+      <workItem from="1683979883724" duration="1022000" />
+      <workItem from="1684008230446" duration="4371000" />
+      <workItem from="1684141810161" duration="765000" />
+      <workItem from="1684225561094" duration="815000" />
+      <workItem from="1684240726530" duration="1317000" />
+      <workItem from="1687245316648" duration="1723000" />
+      <workItem from="1687889114125" duration="940000" />
+      <workItem from="1687904268234" duration="4203000" />
+      <workItem from="1687985836010" duration="1299000" />
+      <workItem from="1687990702650" duration="1268000" />
+      <workItem from="1688057653918" duration="904000" />
+      <workItem from="1688202969790" duration="1808000" />
+      <workItem from="1688630509361" duration="1077000" />
+      <workItem from="1688717127853" duration="1231000" />
+      <workItem from="1689667685313" duration="1097000" />
+      <workItem from="1689674246440" duration="622000" />
+      <workItem from="1689780652907" duration="69000" />
+      <workItem from="1689783429251" duration="608000" />
+      <workItem from="1691019098516" duration="919000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/africa/semicolon/bvasBeta/services/BvasBetaVoterService.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
